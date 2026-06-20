@@ -6,3 +6,4 @@ models/
 logs/
 *.csv
 *.mp4
+mlruns/
