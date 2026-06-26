@@ -1,7 +1,7 @@
 mediapipe==0.10.35
 opencv-python-headless==4.9.0.80
 xgboost==2.0.3
-scikit-learn==1.4.2
+scikit-learn==1.7.1
 imbalanced-learn==0.12.2
 mlflow==2.11.1
 fastapi==0.110.0
